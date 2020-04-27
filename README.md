@@ -1,5 +1,5 @@
 # ReWeb
-Reddit user breakdowns using D3.js
+Reddit user breakdowns using D3.js (on pause until I finish the GoReddit API wrapper)
 
 ### Dependencies
 [GRAW](https://github.com/turnage/graw)
